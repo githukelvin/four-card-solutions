@@ -47,6 +47,14 @@ h1{
   align-items: center;
   float: left;
   margin: 20px;
+box-shadow:
+  5.8px 11px 14.3px rgba(0, 0, 0, 0.13),
+  24px 45px 337px rgba(0, 0, 0, 0.24)
+;
+
+
+
+
  }
 .calc{
   border-top: 4px solid hsl(212, 86%, 64%);
